@@ -2,7 +2,7 @@
 title: "Accurate Prediction of Aqueous Free Solvation Energies Using 3D Atomic Feature-Based Graph Neural Network with Transfer Learning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt:
 date: 2022-04-21
 venue: 'Journal of Chemical Information and Modeling'
 paperurl: 'https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.2c00260'
