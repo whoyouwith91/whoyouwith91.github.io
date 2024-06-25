@@ -8,7 +8,7 @@ author_profile: true
 
 {% for publication in site.publications %}
 <div class="publication-item">
-    <h2><a href="{{ publication.url }}">{{ publication.title }}</a></h2>
+    <h2>{{ publication.title }}</h2>
     <p><strong>{{ publication.venue }}</strong>, {{ publication.date | date: "%Y-%m-%d" }}</p>
     {% if publication.image %}
     <img src="{{ publication.image }}" alt="Image for {{ publication.title }}" style="max-width: 300px;">
