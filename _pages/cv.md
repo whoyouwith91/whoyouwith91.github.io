@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Education and Work experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +13,7 @@ Education
 ======
 * B.S. in Applied Physics, Jinan University, 2013
 * M.S. in Physical Chemistry, University of Chinese Academy of Sciences, 2016
-* Ph.D in Computational Chemistry, New York University, 2022 (expected)
+* Ph.D in Computational Chemistry, New York University, 2022
 
 Work experience
 ======
