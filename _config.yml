@@ -86,7 +86,7 @@ author:
   location         : "Boston, MA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=zdbsYJUAAAAJ&hl=en"
   email            : "dddyy2025@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "whoyouwith91/solvation_energy_prediction"
+  github           : "whoyouwith91"
   google_plus      :
   keybase          :
   instagram        :
