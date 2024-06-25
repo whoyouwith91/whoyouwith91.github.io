@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
 
 {% for publication in site.publications %}
 <div class="publication-item">
