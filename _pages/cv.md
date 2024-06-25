@@ -17,28 +17,23 @@ Education
 
 Work experience
 ======
-* Summer 2020: Experiential Intern
-  * AbbVie
-  * Duties included: Crystalline solubility database construction 
+* Summer 2020: Experiential Intern at AbbVie
+  * Duties included: Crystalline solubility database construction, ML building to predict crystalline solubility
+
+* 08/2022 - 06/2023: AI/ML cheminformatics scientist at Frontier Medicines
+
+* 09/2023 - current: Computational Chemist at Corteva Agriscience
+
   
 Skills
 ======
 * QSPR
+* Cheminformatics
 * Machine Learning 
   * Deep learning 
   * Graph neural network 
   * NLP
-* QM
+* Quantum Mechanics
+* Molecular Dynamics Simulations
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
