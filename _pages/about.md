@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a computational chemist & toxicologist working at Corteva Agriscience, where I provide cheminformatics supports and develop AI/ML models to accurately predict different toxicology endpoints. Besides, I collaborate with engineering team to build the in-house in-silico platform. 
+I'm currently a Senior AI/ML Scienst I at AbbViem, where I provide AI/ML model development and provide supports to different projects. 
 
 My research interests focus on early-stage's problems in drug discovery by leveraging cheminformaitcs and AI/ML modeling, including target identification, hit identification, hit-2-lead and lead optimization. During my PhD study, my research projects mainly focused on developing Graph Neural Network combined with quantum mechanics to solve critical physicochemical properties predictions such as solubility, solvation energy, and NMR chemical shifts. Besides, I also have lots of experience with structure-based methods such as docking, molecular dynamics simulation and free energy calcualtion. 
 
